@@ -1,3 +1,3 @@
-# Python-Workbook
+# Python-Cookbook
 
 Collection of python scripts
