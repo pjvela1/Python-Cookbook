@@ -1,7 +1,6 @@
 import OpenSSL
 import ssl
 import socket
-#import dns.resolver
 
 def NameCheck(domain):
     #This will do a name look up to verify the FQDN
